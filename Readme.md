@@ -4,7 +4,7 @@ Hi! Im Maoony, and I’m a Fortnite Modder and a fortnite trickshotter.
 
 ## About Me 🌍
 - 🎯 My goals: get 50k before the end of 2025 and master c++
-- Im 🇫🇷
+- Im French
 
 ## Skills 🛠️
 Here are some of the technologies and tools I work with:
